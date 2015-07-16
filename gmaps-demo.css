@@ -1,0 +1,42 @@
+#map-canvas {
+  padding: 20 0;
+  height: 460px;
+  width: 100%;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+input {
+  height: 20px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+button {
+  font-size: 16px;
+  height: 34px;
+  background-color: #fff;
+  border-radius: 7px;
+}
+
+#search {
+  border: 2px solid #11A72E;
+}
+
+#done {
+  border: 2px solid #A70C1F;
+}
+
+.search-form {
+  width: 550px;
+  margin: 20px auto;
+
+}
